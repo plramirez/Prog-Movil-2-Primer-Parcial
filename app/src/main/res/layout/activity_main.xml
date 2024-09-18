@@ -19,6 +19,14 @@
             android:textSize="18sp"
             android:text="Dice Roller">
         </Button>
+
+        <Button
+            android:id="@+id/btnAboutMe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="About Me">
+        </Button>
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
