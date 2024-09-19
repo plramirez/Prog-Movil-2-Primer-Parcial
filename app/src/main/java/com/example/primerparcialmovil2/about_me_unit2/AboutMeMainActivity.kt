@@ -10,5 +10,6 @@ import com.example.primerparcialmovil2.R
 class AboutMeMainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_about_me_main)
     }
 }
