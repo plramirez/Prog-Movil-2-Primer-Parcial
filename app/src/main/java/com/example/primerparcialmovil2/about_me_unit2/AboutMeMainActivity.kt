@@ -19,11 +19,15 @@ class AboutMeMainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityAboutMeMainBinding
 
+    private val myName: MyName = MyName("Pedro Ramirez")
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         //setContentView(R.layout.activity_about_me_main)
 
-        binding = DataBindingUtil.setContentView(this, R.layout.activity_about_me_main)
+        binding = DataBindingUtil.setContentView(this, R.layout.activity_about_me_main) //Now the setContentView is related to the binding.
+
+        binding.myName = myName
 
         //findViewById<Button>(R.id.done_button).setOnClickListener {
         //    addNickname(it)
