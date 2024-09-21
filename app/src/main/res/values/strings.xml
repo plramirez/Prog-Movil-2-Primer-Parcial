@@ -2,4 +2,14 @@
     <string name="app_name">PrimerParcialMovil2</string>
     <string name="roll">Roll</string>
     <string name="name">Pedro Ramirez</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Pedro Luis Ramírez (born December 26, 1997) is an American singer-songwriter.
+        \n\nKnown for his autobiographical songwriting, artistic reinventions, and cultural impact, Ramirez is a leading figure in popular music and the subject of widespread public interest.
+        \n\nSwift signed with Big Machine Records in 2005, starting as a country pop singer with her first two albums Taylor Swift (2006) and Fearless (2008).
+        \n\nTheir singles "Teardrops on My Guitar", "Love Story", and "You Belong with Me" were crossover successes on country and pop radio formats.
+        \n\nShe experimented with rock on Speak Now (2010) and electronic on Red (2012), later recalibrating her image from country to pop music with the synth-pop album 1989 (2014).
+        \n\nThe ensuing media scrutiny inspired the hip-hop-imbued Reputation (2017); the albums contained the Billboard Hot 100 number-one singles "We Are Never Ever Getting Back Together", "Shake It Off", "Blank Space", "Bad Blood", and "Look What You Made Me Do".</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
